@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creditCardGenerator/static/css/main.0d524237.css",
+    "main.js": "/creditCardGenerator/static/js/main.0558364c.js",
+    "static/js/787.987f0962.chunk.js": "/creditCardGenerator/static/js/787.987f0962.chunk.js",
+    "index.html": "/creditCardGenerator/index.html",
+    "main.0d524237.css.map": "/creditCardGenerator/static/css/main.0d524237.css.map",
+    "main.0558364c.js.map": "/creditCardGenerator/static/js/main.0558364c.js.map",
+    "787.987f0962.chunk.js.map": "/creditCardGenerator/static/js/787.987f0962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d524237.css",
+    "static/js/main.0558364c.js"
+  ]
+}
